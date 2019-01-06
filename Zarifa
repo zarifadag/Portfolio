@@ -1,0 +1,19 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Zarifa.</title>
+</head>
+
+<body>
+    <h1>Zarifa.</h1>
+
+         <ul>
+            <li>Work</li>
+            <li>About</li>
+            <li>Contact</li>
+                
+        </ul>
+    <img src="spiderplant.jpg"/>
+</body>
+</html>
